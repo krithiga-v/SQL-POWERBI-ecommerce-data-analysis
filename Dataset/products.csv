@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+1,Wireless Earbuds,Electronics,2499
+2,Bluetooth Speaker,Electronics,3199
+3,Smart Watch,Electronics,5499
+4,Power Bank,Electronics,1499
+5,Wireless Mouse,Electronics,899
+6,Mechanical Keyboard,Electronics,3299
+7,USB-C Hub,Electronics,1799
+8,Webcam,Electronics,2299
+9,Phone Stand,Electronics,699
+10,Portable SSD,Electronics,6499
+11,Mixer Grinder,Home & Kitchen,4299
+12,Electric Kettle,Home & Kitchen,1899
+13,Coffee Maker,Home & Kitchen,3599
+14,Air Fryer,Home & Kitchen,6999
+15,Water Bottle,Home & Kitchen,799
+16,Lunch Box,Home & Kitchen,999
+17,Non Stick Pan,Home & Kitchen,1499
+18,Storage Container Set,Home & Kitchen,1299
+19,Desk Lamp,Home & Kitchen,1199
+20,Vacuum Cleaner,Home & Kitchen,7999
+21,Cotton T-Shirt,Fashion,799
+22,Jeans,Fashion,1899
+23,Hoodie,Fashion,2299
+24,Sneakers,Fashion,3499
+25,Formal Shirt,Fashion,1599
+26,Backpack,Fashion,1999
+27,Casual Shoes,Fashion,2799
+28,Sunglasses,Fashion,1299
+29,Wallet,Fashion,899
+30,Watch,Fashion,2499
+31,Data Analytics Basics,Books,599
+32,Python for Beginners,Books,749
+33,SQL Made Easy,Books,699
+34,Power BI Guide,Books,899
+35,Business Statistics,Books,799
+36,Excel Mastery,Books,649
+37,Machine Learning Intro,Books,999
+38,Clean Code,Books,1099
+39,Atomic Habits,Books,499
+40,Deep Work,Books,549
+41,Face Wash,Beauty,399
+42,Moisturizer,Beauty,599
+43,Sunscreen,Beauty,699
+44,Shampoo,Beauty,549
+45,Conditioner,Beauty,499
+46,Body Lotion,Beauty,449
+47,Perfume,Beauty,1799
+48,Lip Balm,Beauty,249
+49,Hair Serum,Beauty,699
+50,Face Serum,Beauty,899
