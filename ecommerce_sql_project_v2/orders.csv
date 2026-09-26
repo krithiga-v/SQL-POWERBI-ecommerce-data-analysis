@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,payment_method,order_status
+1,66,2025-03-14,UPI,Completed
+2,33,2025-08-31,Debit Card,Completed
+3,68,2025-06-17,Credit Card,Completed
+4,34,2025-02-11,Debit Card,Completed
+5,34,2025-07-26,Debit Card,Completed
+6,88,2025-07-22,Credit Card,Completed
+7,52,2025-01-12,Credit Card,Completed
+8,33,2025-05-30,Net Banking,Completed
+9,89,2025-01-22,UPI,Completed
+10,99,2025-08-30,Credit Card,Completed
+11,4,2025-08-31,UPI,Completed
+12,19,2025-03-02,UPI,Completed
+13,77,2025-09-21,Credit Card,Completed
+14,77,2025-07-02,UPI,Completed
+15,4,2025-06-12,UPI,Completed
+16,91,2025-08-19,UPI,Completed
+17,20,2025-02-13,Cash on Delivery,Cancelled
+18,68,2025-09-13,UPI,Pending
+19,99,2025-10-12,Debit Card,Completed
+20,88,2025-04-10,UPI,Cancelled
+21,4,2025-06-16,UPI,Completed
+22,52,2025-07-31,UPI,Completed
+23,88,2025-10-04,Debit Card,Completed
+24,25,2025-08-17,Credit Card,Completed
+25,100,2025-01-31,UPI,Completed
+26,2,2025-06-30,UPI,Completed
+27,88,2025-02-07,Credit Card,Completed
+28,27,2025-12-04,Credit Card,Completed
+29,2,2025-08-04,UPI,Pending
+30,37,2025-06-26,Debit Card,Completed
+31,79,2025-06-27,Credit Card,Cancelled
+32,33,2025-07-28,Credit Card,Completed
+33,46,2025-05-02,Credit Card,Completed
+34,73,2025-01-08,Net Banking,Cancelled
+35,78,2025-02-21,Credit Card,Completed
+36,52,2025-09-03,UPI,Completed
+37,19,2025-09-23,Debit Card,Completed
+38,27,2025-12-01,UPI,Completed
+39,61,2025-07-22,UPI,Completed
+40,40,2025-10-23,UPI,Pending
+41,65,2025-04-17,Credit Card,Completed
+42,2,2025-12-08,UPI,Completed
+43,98,2025-06-08,Cash on Delivery,Cancelled
+44,68,2025-10-01,Net Banking,Cancelled
+45,77,2025-07-09,UPI,Completed
+46,33,2025-08-30,UPI,Completed
+47,33,2025-09-30,UPI,Cancelled
+48,2,2025-03-29,UPI,Completed
+49,77,2025-02-25,UPI,Completed
+50,100,2025-11-16,UPI,Completed
+51,4,2025-10-11,Cash on Delivery,Completed
+52,33,2025-02-22,UPI,Completed
+53,87,2025-02-18,Debit Card,Completed
+54,53,2025-07-04,Debit Card,Completed
+55,33,2025-03-14,Debit Card,Completed
+56,2,2025-09-27,UPI,Completed
+57,66,2025-12-05,UPI,Completed
+58,87,2025-06-28,Debit Card,Pending
+59,67,2025-04-15,Cash on Delivery,Completed
+60,2,2025-07-22,Credit Card,Completed
+61,73,2025-02-21,UPI,Pending
+62,53,2025-08-06,Cash on Delivery,Completed
+63,28,2025-06-20,Debit Card,Completed
+64,100,2025-02-09,Net Banking,Completed
+65,14,2025-03-26,Credit Card,Completed
+66,25,2025-11-13,Credit Card,Completed
+67,77,2025-05-17,Credit Card,Completed
+68,14,2025-11-13,Credit Card,Completed
+69,100,2025-03-28,Debit Card,Completed
+70,2,2025-02-08,UPI,Completed
+71,93,2025-02-23,Net Banking,Completed
+72,71,2025-02-22,Cash on Delivery,Completed
+73,75,2025-04-14,UPI,Completed
+74,93,2025-01-08,UPI,Completed
+75,25,2025-01-20,Credit Card,Completed
+76,71,2025-05-24,UPI,Completed
+77,14,2025-11-16,Net Banking,Completed
+78,99,2025-03-08,UPI,Completed
+79,2,2025-07-28,UPI,Completed
+80,88,2025-05-17,Credit Card,Completed
+81,98,2025-11-01,UPI,Cancelled
+82,91,2025-02-06,Net Banking,Cancelled
+83,63,2025-12-24,Debit Card,Completed
+84,70,2025-08-23,Debit Card,Completed
+85,73,2025-07-15,Credit Card,Completed
+86,40,2025-06-18,UPI,Completed
+87,30,2025-04-08,UPI,Completed
+88,67,2025-06-02,UPI,Completed
+89,52,2025-05-14,UPI,Completed
+90,70,2025-09-08,UPI,Cancelled
+91,65,2025-12-01,Credit Card,Completed
+92,33,2025-07-15,Net Banking,Completed
+93,52,2025-10-21,Credit Card,Completed
+94,77,2025-04-16,Debit Card,Completed
+95,12,2025-09-11,Net Banking,Completed
+96,2,2025-08-13,UPI,Completed
+97,40,2025-01-31,Cash on Delivery,Completed
+98,61,2025-12-16,Debit Card,Completed
+99,70,2025-10-13,Debit Card,Cancelled
+100,53,2025-04-03,Credit Card,Completed
+101,87,2025-08-13,UPI,Completed
+102,4,2025-07-28,Credit Card,Completed
+103,93,2025-10-06,Debit Card,Completed
+104,71,2025-08-07,Cash on Delivery,Completed
+105,90,2025-02-12,UPI,Completed
+106,61,2025-06-02,Debit Card,Completed
+107,10,2025-05-02,Net Banking,Completed
+108,77,2025-04-09,UPI,Completed
+109,97,2025-02-27,UPI,Cancelled
+110,77,2025-06-09,UPI,Completed
+111,35,2025-07-21,Cash on Delivery,Completed
+112,62,2025-06-24,UPI,Pending
+113,91,2025-09-19,Cash on Delivery,Completed
+114,2,2025-11-07,Credit Card,Completed
+115,33,2025-08-03,Debit Card,Completed
+116,2,2025-06-15,Net Banking,Completed
+117,100,2025-06-17,Credit Card,Completed
+118,100,2025-12-02,Debit Card,Completed
+119,79,2025-12-30,Net Banking,Completed
+120,52,2025-11-02,UPI,Pending
+121,9,2025-08-31,Debit Card,Completed
+122,61,2025-11-24,UPI,Completed
+123,65,2025-02-22,Debit Card,Completed
+124,39,2025-11-29,Debit Card,Completed
+125,60,2025-01-02,UPI,Completed
+126,77,2025-10-20,UPI,Completed
+127,62,2025-01-21,Debit Card,Cancelled
+128,27,2025-10-09,Debit Card,Completed
+129,46,2025-01-15,UPI,Completed
+130,27,2025-07-04,Debit Card,Completed
+131,91,2025-11-07,UPI,Completed
+132,71,2025-03-12,UPI,Completed
+133,97,2025-12-24,Credit Card,Completed
+134,2,2025-08-13,UPI,Cancelled
+135,4,2025-09-16,UPI,Completed
+136,30,2025-03-08,Cash on Delivery,Completed
+137,62,2025-10-14,Credit Card,Completed
+138,53,2025-02-22,Cash on Delivery,Completed
+139,73,2025-07-30,Debit Card,Completed
+140,82,2025-12-10,UPI,Completed
+141,12,2025-05-28,Credit Card,Completed
+142,65,2025-02-18,UPI,Completed
+143,93,2025-06-06,Credit Card,Completed
+144,93,2025-05-31,UPI,Completed
+145,60,2025-08-03,UPI,Completed
+146,6,2025-06-02,Credit Card,Completed
+147,77,2025-07-28,Credit Card,Completed
+148,83,2025-08-25,Debit Card,Completed
+149,93,2025-10-15,Credit Card,Completed
+150,71,2025-08-17,UPI,Completed
+151,2,2025-09-26,Net Banking,Cancelled
+152,30,2025-07-03,Credit Card,Completed
+153,98,2025-04-25,Net Banking,Completed
+154,73,2025-02-12,UPI,Completed
+155,97,2025-01-21,UPI,Completed
+156,78,2025-03-05,UPI,Completed
+157,70,2025-01-06,Net Banking,Completed
+158,99,2025-05-16,UPI,Completed
+159,52,2025-02-13,UPI,Pending
+160,65,2025-12-30,Debit Card,Completed
+161,82,2025-09-08,Debit Card,Completed
+162,14,2025-08-22,UPI,Completed
+163,73,2025-07-11,UPI,Completed
+164,12,2025-11-02,Cash on Delivery,Completed
+165,76,2025-11-03,Cash on Delivery,Completed
+166,91,2025-06-13,UPI,Completed
+167,39,2025-10-03,Credit Card,Completed
+168,2,2025-02-24,UPI,Cancelled
+169,82,2025-01-17,UPI,Completed
+170,87,2025-06-28,Credit Card,Completed
+171,11,2025-01-31,UPI,Completed
+172,44,2025-08-21,Debit Card,Completed
+173,77,2025-10-06,UPI,Completed
+174,33,2025-07-16,UPI,Completed
+175,61,2025-06-26,Debit Card,Completed
+176,64,2025-07-04,Cash on Delivery,Completed
+177,78,2025-11-07,UPI,Completed
+178,4,2025-07-13,UPI,Completed
+179,70,2025-12-01,Credit Card,Completed
+180,67,2025-05-04,UPI,Completed
+181,2,2025-12-05,Credit Card,Completed
+182,4,2025-08-07,UPI,Completed
+183,100,2025-09-14,Credit Card,Pending
+184,52,2025-08-15,Credit Card,Completed
+185,78,2025-11-26,Debit Card,Pending
+186,66,2025-10-13,Net Banking,Completed
+187,23,2025-09-25,Credit Card,Completed
+188,71,2025-08-27,Cash on Delivery,Pending
+189,97,2025-04-16,Debit Card,Completed
+190,32,2025-05-07,UPI,Completed
+191,22,2025-10-11,Credit Card,Pending
+192,61,2025-06-19,Cash on Delivery,Completed
+193,80,2025-10-17,UPI,Completed
+194,71,2025-10-20,Cash on Delivery,Completed
+195,63,2025-01-14,UPI,Completed
+196,70,2025-02-09,Debit Card,Completed
+197,73,2025-10-10,Net Banking,Completed
+198,2,2025-10-20,UPI,Completed
+199,51,2025-08-15,Net Banking,Completed
+200,77,2025-07-07,Debit Card,Completed
+201,100,2025-05-27,Net Banking,Completed
+202,12,2025-03-28,Net Banking,Completed
+203,88,2025-11-08,UPI,Completed
+204,4,2025-05-25,UPI,Cancelled
+205,99,2025-03-10,UPI,Completed
+206,79,2025-09-19,Debit Card,Pending
+207,66,2025-04-19,UPI,Completed
+208,33,2025-07-29,Cash on Delivery,Completed
+209,77,2025-08-06,UPI,Cancelled
+210,27,2025-07-01,UPI,Completed
+211,68,2025-01-25,UPI,Completed
+212,52,2025-06-15,Credit Card,Completed
+213,56,2025-06-03,Cash on Delivery,Completed
+214,45,2025-07-17,UPI,Cancelled
+215,80,2025-03-27,UPI,Cancelled
+216,12,2025-07-13,Debit Card,Completed
+217,65,2025-08-27,UPI,Completed
+218,71,2025-04-28,UPI,Completed
+219,77,2025-04-14,Credit Card,Completed
+220,71,2025-10-14,Credit Card,Completed
+221,11,2025-12-30,Debit Card,Completed
+222,19,2025-11-26,Debit Card,Completed
+223,2,2025-07-25,UPI,Completed
+224,4,2025-12-15,Credit Card,Completed
+225,43,2025-01-14,Cash on Delivery,Completed
+226,63,2025-01-15,UPI,Completed
+227,73,2025-06-16,Credit Card,Completed
+228,81,2025-01-19,UPI,Completed
+229,78,2025-01-23,Debit Card,Completed
+230,25,2025-04-21,UPI,Completed
+231,94,2025-01-01,UPI,Completed
+232,4,2025-01-01,Credit Card,Completed
+233,52,2025-05-02,Credit Card,Completed
+234,42,2025-11-04,UPI,Completed
+235,32,2025-03-30,Credit Card,Completed
+236,60,2025-03-25,UPI,Cancelled
+237,91,2025-01-18,Credit Card,Completed
+238,61,2025-02-24,UPI,Completed
+239,19,2025-12-02,UPI,Completed
+240,57,2025-01-12,UPI,Completed
+241,73,2025-03-30,Credit Card,Completed
+242,71,2025-11-07,UPI,Completed
+243,93,2025-08-14,UPI,Completed
+244,52,2025-11-09,UPI,Cancelled
+245,93,2025-06-15,Credit Card,Pending
+246,4,2025-05-12,Debit Card,Completed
+247,79,2025-10-19,Credit Card,Completed
+248,70,2025-06-01,UPI,Completed
+249,33,2025-01-11,UPI,Completed
+250,96,2025-03-02,Debit Card,Completed
+251,33,2025-09-27,UPI,Cancelled
+252,2,2025-08-05,UPI,Completed
+253,36,2025-09-10,UPI,Completed
+254,99,2025-12-28,UPI,Completed
+255,77,2025-12-29,Credit Card,Completed
+256,70,2025-11-24,Net Banking,Completed
+257,100,2025-08-15,UPI,Completed
+258,60,2025-08-06,UPI,Completed
+259,100,2025-11-02,UPI,Completed
+260,52,2025-03-26,Net Banking,Completed
+261,2,2025-08-11,Credit Card,Completed
+262,100,2025-09-05,Debit Card,Completed
+263,100,2025-10-04,Cash on Delivery,Completed
+264,60,2025-07-07,UPI,Completed
+265,71,2025-07-09,UPI,Completed
+266,52,2025-11-21,UPI,Completed
+267,14,2025-02-24,Cash on Delivery,Completed
+268,73,2025-03-14,Net Banking,Cancelled
+269,64,2025-03-19,Credit Card,Completed
+270,56,2025-11-17,UPI,Completed
+271,53,2025-09-28,Debit Card,Completed
+272,52,2025-07-28,UPI,Cancelled
+273,28,2025-11-12,Debit Card,Completed
+274,4,2025-03-16,Debit Card,Completed
+275,37,2025-12-24,UPI,Completed
+276,19,2025-11-20,UPI,Completed
+277,14,2025-08-11,Credit Card,Completed
+278,65,2025-08-08,Cash on Delivery,Completed
+279,33,2025-03-13,UPI,Completed
+280,31,2025-02-17,UPI,Completed
+281,49,2025-05-04,Cash on Delivery,Completed
+282,40,2025-02-06,Debit Card,Cancelled
+283,33,2025-04-12,UPI,Completed
+284,27,2025-07-10,Credit Card,Completed
+285,14,2025-01-17,Credit Card,Pending
+286,67,2025-08-27,Credit Card,Completed
+287,37,2025-04-03,UPI,Completed
+288,28,2025-11-16,Cash on Delivery,Pending
+289,91,2025-12-25,Cash on Delivery,Completed
+290,40,2025-02-20,UPI,Completed
+291,97,2025-02-05,Net Banking,Completed
+292,27,2025-07-17,UPI,Completed
+293,2,2025-02-28,Net Banking,Completed
+294,4,2025-09-26,UPI,Completed
+295,33,2025-05-28,Debit Card,Completed
+296,73,2025-03-17,Cash on Delivery,Completed
+297,39,2025-11-24,UPI,Completed
+298,84,2025-11-05,UPI,Completed
+299,33,2025-06-14,UPI,Completed
+300,12,2025-11-07,Net Banking,Completed
+301,3,2025-07-13,UPI,Completed
+302,25,2025-02-28,Cash on Delivery,Cancelled
+303,9,2025-10-11,Credit Card,Completed
+304,2,2025-07-13,Credit Card,Completed
+305,71,2025-02-18,UPI,Pending
+306,73,2025-06-25,Cash on Delivery,Completed
+307,4,2025-07-22,UPI,Completed
+308,71,2025-01-11,UPI,Cancelled
+309,94,2025-04-28,Credit Card,Completed
+310,65,2025-05-27,Credit Card,Completed
+311,10,2025-12-27,Debit Card,Completed
+312,61,2025-06-21,UPI,Cancelled
+313,8,2025-05-05,UPI,Completed
+314,56,2025-10-17,Credit Card,Completed
+315,94,2025-10-17,UPI,Cancelled
+316,61,2025-06-09,Credit Card,Completed
+317,63,2025-12-29,UPI,Completed
+318,32,2025-06-17,UPI,Completed
+319,2,2025-08-19,UPI,Cancelled
+320,19,2025-04-27,Debit Card,Completed
+321,78,2025-08-29,Credit Card,Completed
+322,4,2025-12-13,UPI,Completed
+323,52,2025-09-05,Net Banking,Completed
+324,35,2025-06-14,Net Banking,Completed
+325,51,2025-12-29,Credit Card,Completed
+326,52,2025-04-21,Cash on Delivery,Completed
+327,23,2025-09-27,UPI,Completed
+328,68,2025-09-20,Credit Card,Cancelled
+329,25,2025-06-03,Debit Card,Completed
+330,29,2025-05-29,Credit Card,Completed
+331,33,2025-02-03,Debit Card,Completed
+332,4,2025-08-30,UPI,Completed
+333,4,2025-03-14,Debit Card,Completed
+334,2,2025-04-01,Debit Card,Completed
+335,100,2025-04-11,UPI,Completed
+336,93,2025-09-04,Cash on Delivery,Completed
+337,27,2025-07-17,Debit Card,Pending
+338,77,2025-08-11,UPI,Completed
+339,40,2025-04-27,Cash on Delivery,Completed
+340,2,2025-09-08,UPI,Completed
+341,35,2025-11-16,Credit Card,Completed
+342,75,2025-12-08,Net Banking,Completed
+343,68,2025-07-18,Credit Card,Completed
+344,9,2025-05-02,UPI,Cancelled
+345,60,2025-12-04,Net Banking,Pending
+346,52,2025-09-29,Debit Card,Completed
+347,78,2025-06-25,Credit Card,Completed
+348,93,2025-08-24,UPI,Completed
+349,88,2025-08-02,UPI,Completed
+350,78,2025-10-25,Net Banking,Completed
+351,71,2025-01-03,UPI,Completed
+352,35,2025-11-03,UPI,Completed
+353,55,2025-02-12,UPI,Pending
+354,2,2025-03-12,UPI,Completed
+355,33,2025-08-15,Cash on Delivery,Pending
+356,71,2025-01-26,UPI,Completed
+357,10,2025-04-09,Net Banking,Completed
+358,98,2025-02-10,Net Banking,Completed
+359,73,2025-06-04,Credit Card,Completed
+360,100,2025-09-08,Debit Card,Pending
+361,93,2025-12-31,Credit Card,Completed
+362,11,2025-09-23,Cash on Delivery,Completed
+363,23,2025-06-18,Credit Card,Completed
+364,34,2025-09-03,UPI,Completed
+365,1,2025-10-31,Net Banking,Completed
+366,30,2025-04-28,Debit Card,Completed
+367,70,2025-06-29,Net Banking,Completed
+368,66,2025-11-17,UPI,Completed
+369,9,2025-07-14,UPI,Completed
+370,97,2025-01-01,Credit Card,Completed
+371,40,2025-01-13,Debit Card,Completed
+372,65,2025-03-03,UPI,Completed
+373,100,2025-10-28,Credit Card,Completed
+374,37,2025-02-03,UPI,Completed
+375,67,2025-04-04,Debit Card,Completed
+376,71,2025-10-01,Credit Card,Completed
+377,30,2025-03-22,UPI,Completed
+378,93,2025-02-13,UPI,Completed
+379,71,2025-03-06,Net Banking,Completed
+380,33,2025-12-28,UPI,Completed
+381,65,2025-06-13,UPI,Completed
+382,37,2025-12-23,Net Banking,Completed
+383,100,2025-03-22,Debit Card,Completed
+384,58,2025-09-26,Credit Card,Completed
+385,33,2025-10-30,Debit Card,Completed
+386,52,2025-01-19,Credit Card,Completed
+387,88,2025-04-05,UPI,Completed
+388,33,2025-10-29,Credit Card,Completed
+389,52,2025-04-09,Credit Card,Completed
+390,87,2025-07-25,Debit Card,Completed
+391,58,2025-01-01,UPI,Cancelled
+392,65,2025-08-24,UPI,Cancelled
+393,77,2025-06-21,Credit Card,Cancelled
+394,100,2025-01-22,UPI,Completed
+395,52,2025-03-13,Debit Card,Completed
+396,27,2025-02-06,UPI,Completed
+397,73,2025-03-06,UPI,Completed
+398,40,2025-04-27,UPI,Completed
+399,4,2025-05-11,UPI,Completed
+400,2,2025-03-16,Net Banking,Cancelled
+401,60,2025-02-06,UPI,Completed
+402,2,2025-08-15,UPI,Completed
+403,79,2025-10-03,Debit Card,Completed
+404,91,2025-12-30,UPI,Completed
+405,65,2025-04-29,Cash on Delivery,Completed
+406,79,2025-10-22,UPI,Pending
+407,100,2025-07-02,Credit Card,Pending
+408,2,2025-05-19,UPI,Completed
+409,30,2025-02-16,UPI,Completed
+410,29,2025-02-07,Net Banking,Completed
+411,71,2025-05-11,UPI,Completed
+412,100,2025-08-20,Cash on Delivery,Cancelled
+413,71,2025-05-23,UPI,Completed
+414,93,2025-07-27,Credit Card,Completed
+415,55,2025-07-22,UPI,Completed
+416,97,2025-05-19,UPI,Completed
+417,33,2025-09-21,UPI,Completed
+418,100,2025-07-25,Debit Card,Completed
+419,87,2025-10-29,Cash on Delivery,Completed
+420,71,2025-09-02,UPI,Cancelled
+421,73,2025-05-24,Cash on Delivery,Completed
+422,100,2025-01-02,UPI,Completed
+423,35,2025-07-25,UPI,Completed
+424,53,2025-11-08,Credit Card,Completed
+425,4,2025-01-02,Debit Card,Completed
+426,71,2025-11-17,UPI,Completed
+427,35,2025-04-09,UPI,Completed
+428,51,2025-07-01,Credit Card,Pending
+429,4,2025-12-18,Net Banking,Completed
+430,65,2025-08-05,Net Banking,Completed
+431,93,2025-02-06,Debit Card,Completed
+432,52,2025-07-26,Cash on Delivery,Completed
+433,70,2025-06-05,UPI,Completed
+434,56,2025-02-13,Debit Card,Completed
+435,97,2025-04-14,UPI,Completed
+436,65,2025-01-09,Credit Card,Completed
+437,67,2025-09-09,UPI,Completed
+438,40,2025-05-18,Credit Card,Completed
+439,77,2025-06-18,Credit Card,Completed
+440,28,2025-02-20,UPI,Completed
+441,56,2025-02-05,Cash on Delivery,Completed
+442,68,2025-10-23,Cash on Delivery,Completed
+443,91,2025-08-26,Net Banking,Completed
+444,52,2025-06-06,Credit Card,Completed
+445,74,2025-07-15,Cash on Delivery,Pending
+446,42,2025-01-15,Debit Card,Completed
+447,90,2025-11-26,UPI,Cancelled
+448,27,2025-11-02,UPI,Completed
+449,22,2025-11-01,UPI,Completed
+450,100,2025-12-01,Credit Card,Completed
+451,99,2025-06-12,UPI,Pending
+452,78,2025-04-24,UPI,Completed
+453,58,2025-12-18,UPI,Completed
+454,45,2025-09-16,Net Banking,Pending
+455,33,2025-11-04,Cash on Delivery,Completed
+456,49,2025-10-18,Credit Card,Completed
+457,12,2025-11-25,Cash on Delivery,Completed
+458,87,2025-06-26,Credit Card,Completed
+459,80,2025-05-12,UPI,Completed
+460,71,2025-01-29,Debit Card,Completed
+461,93,2025-12-06,Credit Card,Completed
+462,45,2025-02-27,UPI,Pending
+463,71,2025-03-21,Credit Card,Cancelled
+464,40,2025-12-23,UPI,Completed
+465,93,2025-02-26,UPI,Completed
+466,68,2025-07-27,Cash on Delivery,Completed
+467,6,2025-08-17,UPI,Completed
+468,73,2025-08-14,Net Banking,Cancelled
+469,93,2025-05-07,UPI,Completed
+470,93,2025-06-09,Cash on Delivery,Completed
+471,65,2025-10-09,Credit Card,Completed
+472,100,2025-04-28,Debit Card,Completed
+473,75,2025-06-08,UPI,Completed
+474,6,2025-03-03,Cash on Delivery,Completed
+475,93,2025-02-09,Credit Card,Completed
+476,60,2025-07-05,Credit Card,Pending
+477,2,2025-06-27,Credit Card,Completed
+478,2,2025-01-25,Credit Card,Completed
+479,65,2025-08-21,UPI,Pending
+480,93,2025-06-21,Net Banking,Completed
+481,25,2025-01-23,Net Banking,Completed
+482,42,2025-10-13,Credit Card,Completed
+483,33,2025-11-09,Credit Card,Completed
+484,46,2025-08-30,Debit Card,Pending
+485,100,2025-05-16,Credit Card,Completed
+486,100,2025-07-04,Debit Card,Completed
+487,33,2025-03-20,Debit Card,Completed
+488,2,2025-03-14,Credit Card,Completed
+489,57,2025-11-23,UPI,Completed
+490,93,2025-12-15,UPI,Completed
+491,33,2025-04-17,Credit Card,Cancelled
+492,31,2025-10-05,Debit Card,Completed
+493,31,2025-05-11,Credit Card,Completed
+494,100,2025-04-10,UPI,Completed
+495,19,2025-07-20,Debit Card,Completed
+496,73,2025-06-25,Debit Card,Completed
+497,25,2025-10-25,Credit Card,Completed
+498,57,2025-03-29,UPI,Completed
+499,73,2025-06-20,UPI,Completed
+500,77,2025-10-02,UPI,Completed
+501,93,2025-02-17,Credit Card,Completed
+502,68,2025-05-15,UPI,Completed
+503,2,2025-12-06,Credit Card,Completed
+504,65,2025-11-13,Cash on Delivery,Completed
+505,87,2025-11-21,Cash on Delivery,Completed
+506,98,2025-06-18,UPI,Completed
+507,12,2025-06-24,Credit Card,Completed
+508,70,2025-07-27,Credit Card,Completed
+509,74,2025-02-09,UPI,Completed
+510,79,2025-11-06,Cash on Delivery,Completed
+511,4,2025-11-21,UPI,Completed
+512,16,2025-04-08,Credit Card,Cancelled
+513,73,2025-05-06,Credit Card,Completed
+514,28,2025-03-03,UPI,Completed
+515,99,2025-12-13,UPI,Completed
+516,53,2025-09-06,UPI,Completed
+517,52,2025-10-24,UPI,Cancelled
+518,93,2025-02-21,Debit Card,Completed
+519,2,2025-03-27,UPI,Pending
+520,37,2025-04-07,Credit Card,Completed
+521,45,2025-04-03,Debit Card,Completed
+522,88,2025-05-19,Net Banking,Completed
+523,65,2025-01-02,Credit Card,Pending
+524,38,2025-01-15,UPI,Completed
+525,94,2025-10-23,UPI,Completed
+526,37,2025-09-30,UPI,Completed
+527,88,2025-03-13,UPI,Completed
+528,33,2025-11-11,Debit Card,Completed
+529,19,2025-12-25,UPI,Completed
+530,71,2025-12-04,UPI,Completed
+531,65,2025-10-03,UPI,Completed
+532,77,2025-03-15,UPI,Completed
+533,93,2025-04-16,Debit Card,Cancelled
+534,78,2025-10-20,UPI,Completed
+535,65,2025-04-03,UPI,Cancelled
+536,2,2025-05-27,UPI,Completed
+537,14,2025-05-26,UPI,Completed
+538,50,2025-08-22,Debit Card,Completed
+539,93,2025-12-01,Net Banking,Completed
+540,35,2025-03-25,UPI,Completed
+541,73,2025-04-22,Credit Card,Completed
+542,93,2025-02-16,Debit Card,Cancelled
+543,38,2025-09-23,Credit Card,Completed
+544,65,2025-07-12,Debit Card,Completed
+545,21,2025-10-01,UPI,Completed
+546,94,2025-03-28,Credit Card,Completed
+547,8,2025-08-01,UPI,Completed
+548,65,2025-11-30,UPI,Completed
+549,93,2025-09-05,Credit Card,Completed
+550,4,2025-10-18,Cash on Delivery,Completed
+551,71,2025-12-02,Cash on Delivery,Completed
+552,61,2025-08-21,Credit Card,Pending
+553,29,2025-02-04,UPI,Completed
+554,100,2025-04-14,Debit Card,Completed
+555,12,2025-12-24,Net Banking,Completed
+556,28,2025-10-09,UPI,Completed
+557,52,2025-08-29,Net Banking,Completed
+558,65,2025-03-22,Debit Card,Completed
+559,73,2025-06-30,UPI,Completed
+560,35,2025-11-12,UPI,Completed
+561,33,2025-12-11,UPI,Completed
+562,24,2025-04-05,Net Banking,Completed
+563,97,2025-11-20,UPI,Completed
+564,52,2025-10-12,UPI,Completed
+565,80,2025-01-10,Cash on Delivery,Completed
+566,93,2025-08-20,Debit Card,Completed
+567,77,2025-06-23,Credit Card,Completed
+568,80,2025-03-15,Net Banking,Completed
+569,66,2025-05-08,Credit Card,Completed
+570,28,2025-12-21,Cash on Delivery,Cancelled
+571,70,2025-05-02,UPI,Completed
+572,53,2025-02-02,UPI,Completed
+573,28,2025-12-28,UPI,Completed
+574,91,2025-10-29,Credit Card,Completed
+575,30,2025-08-19,Net Banking,Completed
+576,90,2025-07-10,Debit Card,Completed
+577,52,2025-05-07,Credit Card,Completed
+578,4,2025-10-18,UPI,Completed
+579,99,2025-03-31,Net Banking,Completed
+580,66,2025-09-08,Net Banking,Completed
+581,4,2025-10-07,UPI,Completed
+582,71,2025-09-09,Cash on Delivery,Completed
+583,65,2025-07-27,UPI,Completed
+584,20,2025-08-15,Credit Card,Completed
+585,93,2025-02-19,Debit Card,Completed
+586,52,2025-09-07,UPI,Completed
+587,24,2025-05-30,UPI,Completed
+588,100,2025-06-10,Debit Card,Completed
+589,65,2025-10-30,Credit Card,Completed
+590,60,2025-06-22,Credit Card,Completed
+591,44,2025-12-05,Credit Card,Completed
+592,2,2025-08-08,Debit Card,Completed
+593,91,2025-07-08,Credit Card,Cancelled
+594,2,2025-06-30,Credit Card,Pending
+595,58,2025-06-14,UPI,Completed
+596,2,2025-02-04,UPI,Completed
+597,39,2025-10-08,Debit Card,Completed
+598,75,2025-07-28,UPI,Cancelled
+599,99,2025-03-03,Credit Card,Completed
+600,8,2025-08-23,UPI,Completed
+601,86,2025-03-26,Cash on Delivery,Completed
+602,73,2025-10-03,Net Banking,Pending
+603,2,2025-03-23,UPI,Completed
+604,71,2025-04-06,Credit Card,Pending
+605,87,2025-12-28,Credit Card,Completed
+606,77,2025-11-10,Cash on Delivery,Completed
+607,73,2025-07-12,Net Banking,Completed
+608,40,2025-06-10,Cash on Delivery,Pending
+609,93,2025-11-27,Debit Card,Completed
+610,19,2025-04-28,Credit Card,Completed
+611,71,2025-07-04,Credit Card,Completed
+612,77,2025-10-01,UPI,Completed
+613,65,2025-02-16,UPI,Completed
+614,33,2025-06-12,UPI,Completed
+615,2,2025-07-22,UPI,Completed
+616,25,2025-03-06,Debit Card,Completed
+617,35,2025-01-24,UPI,Completed
+618,73,2025-01-08,Net Banking,Completed
+619,7,2025-08-10,Credit Card,Completed
+620,10,2025-01-27,Debit Card,Cancelled
+621,65,2025-01-05,UPI,Cancelled
+622,100,2025-07-20,UPI,Completed
+623,27,2025-08-29,Debit Card,Completed
+624,71,2025-12-14,Credit Card,Completed
+625,12,2025-06-24,UPI,Completed
+626,71,2025-01-17,UPI,Completed
+627,40,2025-01-07,Credit Card,Completed
+628,68,2025-08-11,Debit Card,Completed
+629,78,2025-09-17,UPI,Completed
+630,67,2025-08-09,UPI,Completed
+631,33,2025-03-23,Credit Card,Completed
+632,73,2025-03-06,Net Banking,Cancelled
+633,56,2025-03-15,Cash on Delivery,Completed
+634,77,2025-12-04,Cash on Delivery,Completed
+635,71,2025-10-06,Cash on Delivery,Cancelled
+636,2,2025-12-21,Credit Card,Completed
+637,79,2025-11-07,Credit Card,Completed
+638,1,2025-06-02,Credit Card,Completed
+639,71,2025-09-28,UPI,Completed
+640,38,2025-11-06,Credit Card,Completed
+641,54,2025-04-24,Cash on Delivery,Completed
+642,100,2025-05-15,UPI,Completed
+643,67,2025-06-19,Cash on Delivery,Completed
+644,2,2025-03-20,Net Banking,Completed
+645,73,2025-11-07,UPI,Completed
+646,4,2025-12-05,UPI,Completed
+647,33,2025-12-27,UPI,Completed
+648,73,2025-09-04,UPI,Completed
+649,2,2025-06-23,Debit Card,Completed
+650,70,2025-05-03,Net Banking,Completed
+651,12,2025-11-04,Credit Card,Pending
+652,71,2025-08-26,UPI,Cancelled
+653,42,2025-06-28,UPI,Completed
+654,72,2025-09-08,UPI,Completed
+655,79,2025-02-21,Credit Card,Completed
+656,25,2025-07-10,UPI,Completed
+657,33,2025-08-13,UPI,Completed
+658,40,2025-02-09,UPI,Completed
+659,52,2025-06-16,UPI,Completed
+660,83,2025-05-18,Credit Card,Completed
+661,87,2025-01-08,Credit Card,Completed
+662,93,2025-06-03,UPI,Completed
+663,51,2025-12-10,UPI,Completed
+664,93,2025-10-06,UPI,Completed
+665,53,2025-08-19,Cash on Delivery,Pending
+666,88,2025-01-16,Credit Card,Completed
+667,10,2025-02-23,UPI,Pending
+668,66,2025-01-06,Credit Card,Completed
+669,14,2025-04-29,Credit Card,Pending
+670,12,2025-06-23,UPI,Completed
+671,28,2025-12-12,UPI,Completed
+672,33,2025-02-03,Credit Card,Cancelled
+673,99,2025-07-03,Cash on Delivery,Completed
+674,19,2025-07-04,Net Banking,Completed
+675,4,2025-04-13,Net Banking,Completed
+676,65,2025-07-13,Cash on Delivery,Completed
+677,24,2025-04-21,UPI,Completed
+678,90,2025-03-15,Debit Card,Completed
+679,25,2025-09-04,UPI,Completed
+680,2,2025-05-08,Debit Card,Completed
+681,2,2025-05-12,Net Banking,Completed
+682,73,2025-03-20,Cash on Delivery,Completed
+683,73,2025-01-15,Credit Card,Completed
+684,98,2025-03-29,Debit Card,Completed
+685,2,2025-10-22,Cash on Delivery,Completed
+686,100,2025-09-17,Debit Card,Pending
+687,67,2025-05-05,UPI,Completed
+688,4,2025-07-14,UPI,Completed
+689,79,2025-01-06,Cash on Delivery,Completed
+690,71,2025-01-15,UPI,Completed
+691,47,2025-04-10,UPI,Completed
+692,16,2025-03-12,UPI,Completed
+693,46,2025-05-04,UPI,Completed
+694,52,2025-01-10,UPI,Completed
+695,93,2025-12-28,Cash on Delivery,Completed
+696,91,2025-07-14,UPI,Completed
+697,52,2025-10-07,Net Banking,Cancelled
+698,65,2025-06-08,Debit Card,Completed
+699,33,2025-04-23,Cash on Delivery,Completed
+700,67,2025-12-29,Debit Card,Completed
+701,37,2025-08-28,UPI,Completed
+702,6,2025-10-19,Credit Card,Completed
+703,93,2025-02-05,UPI,Completed
+704,77,2025-01-16,Credit Card,Completed
+705,26,2025-05-24,Credit Card,Completed
+706,19,2025-04-09,Net Banking,Completed
+707,38,2025-04-30,Credit Card,Completed
+708,71,2025-04-04,Credit Card,Completed
+709,83,2025-05-09,Credit Card,Completed
+710,61,2025-10-28,UPI,Pending
+711,71,2025-10-14,Cash on Delivery,Completed
+712,60,2025-02-21,Credit Card,Completed
+713,31,2025-10-26,Credit Card,Completed
+714,64,2025-12-06,UPI,Completed
+715,61,2025-09-21,UPI,Completed
+716,100,2025-10-25,UPI,Completed
+717,14,2025-04-05,Debit Card,Completed
+718,93,2025-12-09,Net Banking,Completed
+719,61,2025-04-28,Credit Card,Completed
+720,5,2025-06-11,UPI,Completed
+721,73,2025-12-31,Credit Card,Completed
+722,52,2025-06-26,Cash on Delivery,Completed
+723,97,2025-02-11,Cash on Delivery,Cancelled
+724,65,2025-04-25,UPI,Completed
+725,55,2025-06-01,UPI,Cancelled
+726,2,2025-04-03,Debit Card,Completed
+727,2,2025-01-15,Debit Card,Completed
+728,73,2025-08-28,UPI,Cancelled
+729,4,2025-10-01,Net Banking,Completed
+730,71,2025-04-27,UPI,Completed
+731,92,2025-04-19,UPI,Completed
+732,66,2025-04-03,UPI,Completed
+733,17,2025-04-06,Credit Card,Completed
+734,100,2025-05-07,Credit Card,Completed
+735,100,2025-05-19,Credit Card,Pending
+736,53,2025-07-10,Cash on Delivery,Completed
+737,93,2025-01-22,Credit Card,Completed
+738,52,2025-12-27,Credit Card,Completed
+739,23,2025-07-25,UPI,Completed
+740,28,2025-07-05,Debit Card,Completed
+741,28,2025-08-18,Credit Card,Completed
+742,46,2025-11-04,Net Banking,Completed
+743,35,2025-07-23,UPI,Completed
+744,77,2025-08-25,Credit Card,Completed
+745,14,2025-05-04,Debit Card,Completed
+746,78,2025-02-04,Net Banking,Completed
+747,93,2025-03-14,UPI,Pending
+748,82,2025-09-16,Credit Card,Completed
+749,34,2025-04-20,UPI,Completed
+750,77,2025-01-16,UPI,Completed
+751,97,2025-12-13,Debit Card,Completed
+752,37,2025-06-27,Credit Card,Completed
+753,28,2025-07-10,Credit Card,Completed
+754,52,2025-11-24,Cash on Delivery,Completed
+755,97,2025-05-21,UPI,Completed
+756,2,2025-04-15,UPI,Completed
+757,73,2025-07-01,Cash on Delivery,Completed
+758,65,2025-01-25,UPI,Completed
+759,73,2025-04-06,Cash on Delivery,Completed
+760,71,2025-03-14,Credit Card,Completed
+761,68,2025-07-31,UPI,Completed
+762,53,2025-02-20,Credit Card,Completed
+763,71,2025-11-13,UPI,Completed
+764,52,2025-01-26,UPI,Completed
+765,66,2025-09-23,UPI,Completed
+766,65,2025-01-25,Net Banking,Completed
+767,65,2025-02-02,UPI,Completed
+768,12,2025-11-08,UPI,Completed
+769,52,2025-06-05,Debit Card,Completed
+770,4,2025-07-02,Cash on Delivery,Completed
+771,61,2025-10-31,UPI,Completed
+772,60,2025-11-20,Debit Card,Completed
+773,35,2025-04-07,UPI,Completed
+774,2,2025-07-10,Credit Card,Completed
+775,65,2025-04-22,UPI,Completed
+776,52,2025-02-24,Net Banking,Completed
+777,73,2025-02-18,Debit Card,Completed
+778,4,2025-03-28,UPI,Completed
+779,44,2025-01-18,Debit Card,Pending
+780,52,2025-01-17,Debit Card,Completed
+781,24,2025-08-05,Debit Card,Completed
+782,68,2025-01-04,Credit Card,Pending
+783,71,2025-04-05,UPI,Completed
+784,78,2025-07-22,Credit Card,Completed
+785,100,2025-10-02,Net Banking,Completed
+786,65,2025-04-01,Credit Card,Completed
+787,73,2025-05-01,Cash on Delivery,Completed
+788,29,2025-12-22,UPI,Completed
+789,32,2025-06-27,UPI,Completed
+790,39,2025-07-12,UPI,Cancelled
+791,19,2025-02-15,UPI,Completed
+792,56,2025-02-05,Cash on Delivery,Completed
+793,73,2025-01-26,Debit Card,Completed
+794,2,2025-10-04,Net Banking,Completed
+795,56,2025-08-02,UPI,Completed
+796,73,2025-12-16,Credit Card,Completed
+797,87,2025-06-09,Debit Card,Pending
+798,66,2025-02-28,UPI,Completed
+799,83,2025-06-25,Credit Card,Completed
+800,52,2025-05-28,Credit Card,Completed
+801,99,2025-08-28,Debit Card,Completed
+802,25,2025-10-16,Credit Card,Completed
+803,37,2025-08-10,UPI,Completed
+804,93,2025-07-12,Net Banking,Completed
+805,2,2025-02-02,Credit Card,Completed
+806,85,2025-09-25,Net Banking,Completed
+807,40,2025-08-04,UPI,Completed
+808,73,2025-11-12,Debit Card,Completed
+809,87,2025-05-15,UPI,Completed
+810,42,2025-03-12,UPI,Cancelled
+811,73,2025-07-04,UPI,Completed
+812,52,2025-05-04,Debit Card,Completed
+813,100,2025-10-09,Debit Card,Completed
+814,4,2025-08-11,Cash on Delivery,Completed
+815,63,2025-01-19,Cash on Delivery,Cancelled
+816,44,2025-07-10,Credit Card,Completed
+817,75,2025-10-27,Credit Card,Completed
+818,77,2025-09-07,Cash on Delivery,Completed
+819,77,2025-04-12,UPI,Cancelled
+820,56,2025-12-09,Credit Card,Completed
+821,100,2025-06-18,UPI,Completed
+822,97,2025-02-05,UPI,Completed
+823,71,2025-02-23,UPI,Completed
+824,11,2025-03-20,UPI,Completed
+825,5,2025-05-15,Credit Card,Cancelled
+826,37,2025-02-25,Cash on Delivery,Cancelled
+827,65,2025-10-30,Credit Card,Completed
+828,18,2025-08-22,Debit Card,Completed
+829,73,2025-12-16,Credit Card,Completed
+830,8,2025-05-18,UPI,Completed
+831,100,2025-07-05,Credit Card,Completed
+832,33,2025-04-02,Credit Card,Completed
+833,14,2025-12-21,UPI,Completed
+834,99,2025-04-18,Credit Card,Completed
+835,52,2025-08-23,Cash on Delivery,Completed
+836,35,2025-09-10,UPI,Completed
+837,93,2025-06-19,UPI,Completed
+838,56,2025-09-05,Debit Card,Completed
+839,93,2025-08-09,UPI,Completed
+840,30,2025-02-06,Debit Card,Pending
+841,67,2025-01-06,Credit Card,Completed
+842,33,2025-10-29,Credit Card,Completed
+843,71,2025-09-12,Net Banking,Completed
+844,70,2025-12-05,UPI,Completed
+845,73,2025-01-29,UPI,Completed
+846,71,2025-06-12,UPI,Completed
+847,79,2025-06-14,UPI,Completed
+848,51,2025-11-22,Debit Card,Completed
+849,33,2025-04-18,Cash on Delivery,Completed
+850,71,2025-05-29,Cash on Delivery,Pending
+851,100,2025-05-31,Debit Card,Completed
+852,30,2025-10-03,UPI,Completed
+853,73,2025-08-13,UPI,Completed
+854,77,2025-05-09,Net Banking,Completed
+855,14,2025-06-29,Debit Card,Completed
+856,68,2025-06-30,UPI,Completed
+857,33,2025-10-28,Cash on Delivery,Completed
+858,40,2025-12-17,UPI,Cancelled
+859,73,2025-07-28,Credit Card,Completed
+860,77,2025-05-06,UPI,Completed
+861,25,2025-01-31,Credit Card,Cancelled
+862,73,2025-08-19,Credit Card,Completed
+863,49,2025-06-19,UPI,Completed
+864,52,2025-03-14,Debit Card,Completed
+865,52,2025-07-29,Net Banking,Completed
+866,68,2025-11-18,Debit Card,Completed
+867,56,2025-08-31,Net Banking,Pending
+868,71,2025-06-03,Debit Card,Completed
+869,100,2025-06-15,Cash on Delivery,Completed
+870,40,2025-07-26,UPI,Completed
+871,100,2025-11-03,UPI,Completed
+872,49,2025-03-31,Credit Card,Completed
+873,100,2025-11-23,UPI,Completed
+874,33,2025-06-20,Credit Card,Completed
+875,4,2025-05-26,Credit Card,Completed
+876,13,2025-07-02,Credit Card,Completed
+877,77,2025-09-30,UPI,Completed
+878,77,2025-11-08,UPI,Completed
+879,33,2025-04-15,Debit Card,Completed
+880,87,2025-09-03,UPI,Completed
+881,33,2025-12-13,UPI,Completed
+882,2,2025-12-27,Net Banking,Completed
+883,53,2025-10-27,UPI,Completed
+884,30,2025-11-14,Debit Card,Completed
+885,28,2025-05-22,Debit Card,Completed
+886,73,2025-06-20,Net Banking,Completed
+887,97,2025-03-04,Debit Card,Pending
+888,65,2025-04-01,UPI,Completed
+889,52,2025-11-11,UPI,Completed
+890,79,2025-12-28,UPI,Completed
+891,77,2025-07-06,Debit Card,Completed
+892,71,2025-05-30,UPI,Completed
+893,30,2025-10-14,UPI,Completed
+894,100,2025-11-22,UPI,Completed
+895,79,2025-07-22,UPI,Completed
+896,69,2025-06-17,UPI,Completed
+897,77,2025-09-15,Credit Card,Completed
+898,65,2025-11-05,UPI,Completed
+899,65,2025-05-12,Debit Card,Completed
+900,88,2025-03-10,Credit Card,Completed
+901,37,2025-03-24,Debit Card,Completed
+902,33,2025-01-30,Net Banking,Completed
+903,4,2025-11-14,Debit Card,Completed
+904,88,2025-07-11,Debit Card,Cancelled
+905,95,2025-02-06,UPI,Completed
+906,60,2025-12-11,Credit Card,Completed
+907,91,2025-11-04,Cash on Delivery,Completed
+908,91,2025-10-19,Net Banking,Completed
+909,77,2025-10-03,UPI,Completed
+910,90,2025-07-07,UPI,Completed
+911,4,2025-02-12,UPI,Completed
+912,60,2025-05-09,UPI,Completed
+913,67,2025-09-08,Credit Card,Cancelled
+914,57,2025-05-21,Net Banking,Completed
+915,4,2025-09-28,Cash on Delivery,Completed
+916,93,2025-07-31,Credit Card,Completed
+917,81,2025-09-06,Debit Card,Pending
+918,77,2025-06-29,UPI,Completed
+919,73,2025-02-13,UPI,Completed
+920,59,2025-09-24,UPI,Completed
+921,1,2025-01-17,Net Banking,Completed
+922,66,2025-01-15,UPI,Completed
+923,97,2025-04-14,Credit Card,Completed
+924,52,2025-12-04,UPI,Completed
+925,19,2025-01-20,Cash on Delivery,Pending
+926,2,2025-09-27,Credit Card,Completed
+927,60,2025-10-24,Debit Card,Completed
+928,77,2025-06-14,Credit Card,Completed
+929,9,2025-09-07,Debit Card,Completed
+930,27,2025-04-09,UPI,Completed
+931,77,2025-10-15,Credit Card,Completed
+932,77,2025-03-31,UPI,Completed
+933,58,2025-03-26,UPI,Completed
+934,56,2025-05-18,UPI,Completed
+935,4,2025-10-25,UPI,Completed
+936,93,2025-12-09,Debit Card,Completed
+937,65,2025-09-30,Credit Card,Completed
+938,14,2025-07-11,UPI,Completed
+939,65,2025-06-01,UPI,Completed
+940,65,2025-07-23,Cash on Delivery,Completed
+941,71,2025-08-15,Credit Card,Completed
+942,41,2025-04-02,UPI,Completed
+943,33,2025-04-11,UPI,Completed
+944,65,2025-01-01,UPI,Completed
+945,64,2025-07-20,UPI,Completed
+946,98,2025-03-22,UPI,Cancelled
+947,52,2025-02-09,UPI,Completed
+948,100,2025-12-25,Credit Card,Completed
+949,2,2025-12-27,UPI,Pending
+950,73,2025-03-16,Credit Card,Completed
+951,15,2025-05-21,Cash on Delivery,Completed
+952,93,2025-12-30,UPI,Completed
+953,52,2025-12-20,UPI,Cancelled
+954,37,2025-07-27,Debit Card,Completed
+955,52,2025-07-14,Debit Card,Completed
+956,68,2025-02-26,UPI,Completed
+957,68,2025-01-13,Debit Card,Pending
+958,93,2025-01-03,UPI,Completed
+959,4,2025-01-22,Credit Card,Completed
+960,60,2025-08-03,UPI,Completed
+961,4,2025-08-05,UPI,Completed
+962,79,2025-11-18,Debit Card,Completed
+963,2,2025-04-28,UPI,Completed
+964,65,2025-01-05,Cash on Delivery,Completed
+965,25,2025-10-25,UPI,Completed
+966,56,2025-06-02,UPI,Completed
+967,65,2025-12-16,Net Banking,Completed
+968,35,2025-10-11,UPI,Cancelled
+969,67,2025-07-09,UPI,Completed
+970,19,2025-01-05,UPI,Cancelled
+971,44,2025-10-19,Cash on Delivery,Completed
+972,1,2025-08-05,UPI,Completed
+973,30,2025-04-27,UPI,Completed
+974,71,2025-03-08,Credit Card,Completed
+975,4,2025-02-16,Cash on Delivery,Completed
+976,10,2025-10-27,Debit Card,Completed
+977,77,2025-09-19,Net Banking,Completed
+978,100,2025-04-12,UPI,Completed
+979,77,2025-01-25,UPI,Completed
+980,33,2025-07-20,UPI,Completed
+981,27,2025-10-16,Net Banking,Completed
+982,2,2025-07-20,Credit Card,Completed
+983,77,2025-08-28,UPI,Pending
+984,28,2025-02-05,Net Banking,Completed
+985,68,2025-03-31,Debit Card,Completed
+986,77,2025-10-10,Credit Card,Completed
+987,48,2025-01-30,Debit Card,Completed
+988,100,2025-11-21,Debit Card,Completed
+989,40,2025-04-12,Debit Card,Cancelled
+990,2,2025-02-03,UPI,Completed
+991,61,2025-05-24,Debit Card,Completed
+992,71,2025-07-28,UPI,Completed
+993,4,2025-04-08,Net Banking,Completed
+994,2,2025-05-18,Debit Card,Completed
+995,66,2025-04-03,UPI,Pending
+996,88,2025-09-15,Credit Card,Completed
+997,30,2025-03-09,Credit Card,Completed
+998,53,2025-12-04,Debit Card,Completed
+999,87,2025-10-01,Cash on Delivery,Completed
+1000,79,2025-08-23,Cash on Delivery,Completed
